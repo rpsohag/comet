@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "title" : "Digital Power",
+        "description" : "We are a small design studio from San Francisco.",
+        "background_image" :"./frontend/images/bg/1.jpg",
+        "read_more_btn_url" : "#",
+        "services_btn_url" : "#"
+    },
+    {
+        "id" : 1,
+        "title" : "We Are frontend",
+        "description" : "Experts in web design and development.",
+        "background_image" :"./frontend/images/bg/2.jpg",
+        "read_more_btn_url" : "#",
+        "services_btn_url" : "#"
+    }
+]

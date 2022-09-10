@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "title" : "PREMIUM NOTCH BLAZER",
+        "thumbnail" : "/frontend/images/shop/1.jpg",
+        "slug" : "PREMIUM-NOTCH-BLAZER",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis repellat iste natus at impedit quo consequuntur, quam, vel saepe voluptatum minus temporibus excepturi aspernatur labore molestiae fugit tempora veritatis unde.",
+        "price" : 79.99,
+        "sizes" : "S, M, L, XL",
+        "colors" : "BLUE, RED, GREY",
+        "category" : "BLAZER"
+    },
+    {
+        "id" : 2,
+        "title" : "PREMIUM SUIT BLAZER",
+        "thumbnail" : "/frontend/images/shop/2.jpg",
+        "slug" : "PREMIUM-SUIT-BLAZER",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis repellat iste natus at impedit quo consequuntur, quam, vel saepe voluptatum minus temporibus excepturi aspernatur labore molestiae fugit tempora veritatis unde.",
+        "price" : 70.00,
+        "sizes" : "S, M, L, XL",
+        "colors" : "BLUE, RED, GREY",
+        "category" : "BLAZER"
+    },
+    {
+        "id" : 3,
+        "title" : "VINTAGE SWEATSHIRT",
+        "thumbnail" : "/frontend/images/shop/3.jpg",
+        "slug" : "VINTAGE-SWEATSHIRT",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis repellat iste natus at impedit quo consequuntur, quam, vel saepe voluptatum minus temporibus excepturi aspernatur labore molestiae fugit tempora veritatis unde.",
+        "price" : 100.50,
+        "sizes" : "S, M, L, XL",
+        "colors" : "BLUE, RED, GREY",
+        "category" : "BLAZER"
+    }
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Comet | Creative Multi-Purpose Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/frontend/css/bundle.css">
+    <link rel="stylesheet" href="/frontend/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Halant:300,400" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <!-- Preloader-->
+    <div id="loader">
+      <div class="centrize">
+        <div class="v-center">
+          <div id="mask">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Preloader-->
+<%- include('partials/header') %> 
+    <!-- Home Section-->
+    <%- body %> 
+    <!-- Footer-->
+  <%- include('partials/footer') %> 
+    <!-- end of footer-->
+    <script type="text/javascript" src="/frontend/js/jquery.js"></script>
+    <script type="text/javascript" src="/frontend/js/bundle.js"></script>
+    <script type="text/javascript" src="/frontend/js/main.js"></script>
+  </body>
+</html>
